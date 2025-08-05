@@ -134,8 +134,6 @@ while (!dreamsAchieved()) {
 
 ---
 
-### 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://github.com/RicardoFernandes2004/RicardoFernandes2004/raw/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
 </p>
