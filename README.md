@@ -1,7 +1,7 @@
 <!-- Profile header -->
 <h1 align="center">Hey, I'm Ricardo Fernandes 👋</h1>
 <p align="center">
-  💻 Software Engineering Student • ⚙️ Backend Enthusiast • 🌏 Future Digital Nomad Dev • 🧳 Co-founding member of <a href="https://github.com/Phasex-arch">Phasex-arch</a>
+  💻 Software Engineering Student • ⚙️ Backend Lover (Java my beloved ❤) • 🌏 Future Digital Nomad Dev • 🧳 Co-founding member of <a href="https://github.com/Phasex-arch">Phasex-arch</a>
 </p>
 
 <p align="center">
