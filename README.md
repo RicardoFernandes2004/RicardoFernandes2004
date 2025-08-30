@@ -34,7 +34,7 @@ while (!dreamsAchieved()) {
 
 <p align="center">
   <strong>🧠 Passionate about:</strong> <br>
-  Java • Spring Boot • C • AI • Robotics
+  Java • Spring Boot • Gaming • AI • Robotics
 </p>
 
 <p align="center">
