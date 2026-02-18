@@ -156,8 +156,7 @@ _(Dec 2025 – Present)_
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RicardoFernandes2004&show_icons=true&theme=dark&icon_color=00FF41&title_color=00FF41&count_private=true&hide_border=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoFernandes2004&layout=compact&theme=dark&title_color=00FF41&hide=html,css&langs_count=8&hide_border=true" alt="Top Languages" height="180"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoFernandes2004)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://streak-stats.demolab.com?user=RicardoFernandes2004&theme=dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 
